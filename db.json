@@ -1,0 +1,15 @@
+{
+	"constelacoes":[
+		{"nome":"Andrômeda"},
+		{"nome":"Cruzeiro do Sul"},
+		{"nome":"Ursa Maior"},
+		{"nome":"Ursa Menor"},
+		{"nome":"Cão Maior"}
+	],
+	"elementos":[
+		{"nome":"fogo","valor":1},
+		{"nome":"agua","valor":2},
+		{"nome":"ar","valor":3},
+		{"nome":"terra","valor":5}
+	]
+}
